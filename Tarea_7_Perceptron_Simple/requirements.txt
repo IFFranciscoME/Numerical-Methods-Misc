@@ -1,6 +1,6 @@
 # Requerimientos para el proyecto
 
-numpy==1.18.3
+numpy==1.22.0
 pandas==1.0.3
 xlrd==1.2.0
 matplotlib==3.2.1
